@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React     from 'react';
+import HeaderCP  from './components/header/header.js';
+import BuscaCP   from './components/Busca/Busca.js';
+import ImgAvatar from './assets/img/avatar.jpg';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+class App extends React.Component {
+
+    constructor(props) {
+        super(props)
+        this.state = {
+
+        }
+
+    }
+
+
+    render() {
+        return (
+            <>
+                <HeaderCP 
+                    ImgAvatar={ImgAvatar}  
+                />
+                <BuscaCP/>
+            </>
+        )
+    }
+
 }
 
-export default App;
+export default App
