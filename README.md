@@ -2,13 +2,16 @@
 # Google-Clone
 Aqui tem uma verção da interface da home do google recriada em React.js, o objetivo é recriar a propria interface sozinho, tirando as imagens, e com isso entender e aprender conceitos de designe e ui usado no google, e como fazer.
 
-*LIB: React.js
+* LIB: React.js
 
-*Dependencies: 
-  *"@material-ui/core": "^4.3.1",
-  *"@material-ui/icons": "^3.0.2",
-  *"@material-ui/pickers": "^3.2.2",
-  *"@material-ui/styles": "^4.0.2",
+* Dependencies: 
+  * "@material-ui/core": "^4.3.1",
+  
+  * "@material-ui/icons": "^3.0.2",
+  
+  * "@material-ui/pickers": "^3.2.2",
+  
+  * "@material-ui/styles": "^4.0.2",
   
  O detalhe que mais me chamou a atenção, é a compatibilidade do google entre navegadores modernos e antigos, testei usando o google chanary, google, firefox dev e opera, todos tinham um estilo compativel com o navegador e ainda sim lembrando a palheta da google.
  
