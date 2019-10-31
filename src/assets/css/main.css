@@ -123,3 +123,42 @@
     background-color: #f8f8f8;
     border: 1px solid #c6c6c6;
 }
+
+/* Footer */
+
+.Footer{
+    width: 100%;
+    height: 82px;
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0;
+    padding-left: 27px;
+}
+
+.LinknsFooter{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.FooterTexto{
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 40px;
+    word-spacing: normal;
+    letter-spacing: normal;
+    font-weight: 400;
+}
+
+.FooterTexto2{
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 40px;
+    word-spacing: normal;
+    letter-spacing: normal;
+    font-weight: 400;
+    margin-left: 15px;
+}
+

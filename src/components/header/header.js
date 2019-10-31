@@ -20,10 +20,10 @@ class header extends React.Component {
           alignItems="center"
         >
           <div className="SuperiorMenuText">
-            <a className="Subtitulo" href="www.google.com">
+            <a className="Subtitulo" href="https://mail.google.com/">
               Gmail
             </a>
-            <a className="Subtitulo" href="www.google.com">
+            <a className="Subtitulo" href="https://www.google.com.br/imghp?hl=pt-BR&tab=wi&authuser=0&ogbl">
               Imagens
             </a>
           </div>
