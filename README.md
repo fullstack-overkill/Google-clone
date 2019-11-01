@@ -15,6 +15,7 @@ Aqui tem uma verção da interface da home do google recriada em React.js, o obj
   
  O detalhe que mais me chamou a atenção, é a compatibilidade do google entre navegadores modernos e antigos, testei usando o google chanary, google, firefox dev e opera, todos tinham um estilo compativel com o navegador e ainda sim lembrando a palheta da google.
  
+ ## Teste você mesmo! : https://aaaa111asdasd.herokuapp.com
  ## Imagens de comparação: 
  
  #### Original:
